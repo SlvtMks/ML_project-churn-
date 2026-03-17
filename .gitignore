@@ -1,0 +1,15 @@
+# env
+.venv/
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# data (не коммитим)
+data/*
+!data/README.md
+
+# OS
+.DS_Store
+Thumbs.db
