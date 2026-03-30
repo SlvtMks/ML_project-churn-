@@ -15,22 +15,6 @@
 
 Используется датасет `IBM Telco Customer Churn`.
 
-## План работ
-
-- [ ] Data quality check
-- [ ] EDA и гипотезы
-- [ ] Feature engineering
-- [ ] Baseline model
-- [ ] Evaluation
-- [ ] Report с выводами
-
-## Текущая структура репозитория
-
-- `data/` - локальные данные, не коммитятся
-- `README.md` - описание проекта
-- `requirements.txt` - зависимости проекта
-- `.gitignore` - исключения для Git
-
 ## Как запустить
 
 ```bash
