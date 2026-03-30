@@ -5,6 +5,7 @@ __pycache__/
 
 # notebooks
 .ipynb_checkpoints/
+catboost_info/
 
 # data (не коммитим)
 data/*
@@ -13,3 +14,5 @@ data/*
 # OS
 .DS_Store
 Thumbs.db
+
+
