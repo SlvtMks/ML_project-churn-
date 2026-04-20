@@ -38,6 +38,8 @@
   - `DecisionTreeClassifier`
   - `RandomForestClassifier`
   - `CatBoostClassifier`
+- часть повторяющейся логики вынесена в `src/` для более модульной и воспроизводимой структуры проекта.
+
 
 ## Основные результаты
 
